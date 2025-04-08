@@ -1,0 +1,1 @@
+<h1>A new post created for you!</h1><?php /**PATH C:\Users\user\Herd\pdf_reports\resources\views\email.blade.php ENDPATH**/ ?>

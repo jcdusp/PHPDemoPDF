@@ -1,0 +1,1 @@
+<h1>A new post created for you!</h1>

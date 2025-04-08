@@ -1,0 +1,1 @@
+<h1>Custom log created successfully.</h1>
